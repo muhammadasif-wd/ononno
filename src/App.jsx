@@ -10,7 +10,7 @@ function App() {
         Hello world!
       </h1>
       <p>
-        My name is dev branch
+        My name is dev branch - main
       </p>
       <h1>
         my name is aisf!
