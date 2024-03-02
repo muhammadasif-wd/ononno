@@ -7,5 +7,7 @@ switch branch -> git checkout abid
 
 delete branch -> git branch -d 
 
+merge branch -> git merge
+
 
 development -> dev 
