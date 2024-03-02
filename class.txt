@@ -1,0 +1,8 @@
+create a new branch -> git branch abid
+
+see branch list -> git branch
+
+switch branch -> git checkout abid
+
+
+delete branch -> git branch -d 
