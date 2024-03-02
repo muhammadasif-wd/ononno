@@ -6,3 +6,6 @@ switch branch -> git checkout abid
 
 
 delete branch -> git branch -d 
+
+
+development -> dev 
